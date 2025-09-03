@@ -1,4 +1,4 @@
 # Can-Analyzer
 
-Trying to Build a CAN Ana;yzer
-Baord used - Nucleo-g431rb
+Trying to Build a CAN Analyzer
+Board used - Nucleo-g431rb
